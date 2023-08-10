@@ -14,4 +14,10 @@ WeatherPy is a Python script that visualizes the weather of 500+ cities across t
 - Determines the correlation between latitude and weather phenomena.
 - Saves both the data and the scatter plots for further analysis.
 
+![Latitude Vs. Temperature](fig1.png)
 
+![Latitude Vs. Humidity](fig2.png)
+
+![Latitude Vs. Cloudiness](fig3.png)
+
+![Latitude Vs. Wind Speed](fig4.png)
