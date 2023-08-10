@@ -43,6 +43,18 @@ For both the Northern and Southern Hemispheres, there is a weak negative correla
 
 The latitude vs cloudiness relation reveals a very weak negative correlation in both hemispheres. This might suggest that latitude has a minimal direct impact on cloudiness. The similarity in both hemispheres further emphasizes the possible presence of other dominant factors affecting cloudiness.
 
+### Figures
+![N_sw](N_sw.png)
+![NH_MT_Lat](NH_MT_Lat.png)
+![NH_wind](NH_wind.png)
+![NH-lat_C](NH-lat_C.png)
+![NH-lat_hum](NH-lat_hum.png)
+![S_Lat_C](S_Lat_C.png)
+![S_lat_hum](S_lat_hum.png)
+![S_MT_Lat](S_MT_Lat.png)
+![S_WS](S_WS.png)
+
+
 ### Latitude vs Windspeed Summary
 
 Latitude vs wind speed shows a weak negative correlation in both the Northern and Southern Hemispheres. This may suggest that the wind speed slightly decreases with increasing latitude. However, the weak correlation and slight differences between the hemispheres imply that latitude is not a major factor in determining wind speed, and other geographical or meteorological elements likely play a more significant role.
